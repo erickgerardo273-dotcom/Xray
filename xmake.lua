@@ -46,7 +46,5 @@ function levi_target(name, src, icon, version, desc)
     target_end()
 end
 
-levi_target("SodiumLevi", "main.cpp", "icon.png", "0.2.0",
-    "Optimizacion para Minecraft Bedrock: modos de rendimiento, control de CPU/termico y resolucion. Hecho por erickzgcs.")
 levi_target("XrayLevi", "xray.cpp", "icon_xray.png", "0.1.0",
     "X-Ray de minerales con boton flotante y menu. Hecho por erickzgcs.")
